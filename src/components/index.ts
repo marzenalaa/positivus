@@ -1,3 +1,3 @@
 import Hero from "./Hero";
-
-export { Hero };
+import Services from "./Services";
+export { Hero, Services };

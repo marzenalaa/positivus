@@ -1,9 +1,10 @@
-import { Hero } from "./components";
+import { Hero, Services } from "./components";
 
 const App = () => {
   return (
     <div className="container overflow-hidden">
       <Hero />
+      <Services />
     </div>
   );
 };
