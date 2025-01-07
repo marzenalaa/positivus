@@ -1,7 +1,7 @@
 interface buttonProps {
   text: string;
   href: string;
-  className: string;
+  className?: string;
 }
 const Button = ({ text, href, className }: buttonProps) => {
   return (

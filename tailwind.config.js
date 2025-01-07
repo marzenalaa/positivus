@@ -13,6 +13,7 @@ export default {
         crimsonRed: "#D81F26",
         coralOrange: "#FF7A59",
         amber: "#FF9900",
+        shadowSlate: "#292A32",
       },
     },
   },
