@@ -36,7 +36,7 @@ const Footer = () => {
           <p className="my-4">{phone}</p>
           <p className="">{address}</p>
         </div>
-        <div className="contact-form bg-shadowSlate p-4 sm:p-8 py-8 sm:py-0 rounded-3xl flex items-center justify-between gap-4 flex-col sm:flex-row">
+        <div className="contact-form bg-shadowSlate p-4 sm:p-8 py-8 rounded-3xl flex items-center justify-between gap-4 flex-col sm:flex-row">
           <input
             type="email"
             id="email"
