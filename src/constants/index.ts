@@ -1,4 +1,4 @@
-import illustration from "../assets/illustration.png";
+import illustration from "../assets/Illustration.png";
 import logo from "../assets/logo.png";
 import lightLogo from "../assets/light-logo.png";
 import amazon from "../assets/amazon.png";
